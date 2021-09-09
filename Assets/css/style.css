@@ -1,0 +1,60 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    color: #707070;
+    font-weight: 700;
+}
+
+
+.menu {
+    background-color: #E83E8C;
+}
+
+.logo img {
+    width: 132px;
+    height: 53px;
+}
+
+.contenido {
+    padding: auto;
+}
+
+.titulo {
+    font-weight: 700;
+    size: 16px;
+    color: #373A3C;
+}
+
+.cont {
+    font-weight: 400;
+    size: 16px;
+    color: #373A3C;
+}
+
+li {
+    text-decoration: none;
+}
+
+.foot1 {
+    background-color: #17A2B8;
+}
+
+.foot2 {
+    background-color: #E83E8C;
+}
+
+.foot2 img {
+    width: 53px;
+    height: 100px;
+}
+
+.ahora {
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.icons-section i {
+    color: #FFFFFF;
+}
